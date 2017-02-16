@@ -22,6 +22,7 @@ adjective <- c(
   "classy",
   "clever",
   "cool",
+  "colossal",
   "crackin'",
   "cute",
   "dandy",
